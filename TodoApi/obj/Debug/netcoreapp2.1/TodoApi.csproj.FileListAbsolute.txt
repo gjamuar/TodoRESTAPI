@@ -1,0 +1,14 @@
+/Users/jamuar/Documents/DotNet/TodoApi/TodoApi/bin/Debug/netcoreapp2.1/TodoApi.deps.json
+/Users/jamuar/Documents/DotNet/TodoApi/TodoApi/bin/Debug/netcoreapp2.1/TodoApi.runtimeconfig.json
+/Users/jamuar/Documents/DotNet/TodoApi/TodoApi/bin/Debug/netcoreapp2.1/TodoApi.runtimeconfig.dev.json
+/Users/jamuar/Documents/DotNet/TodoApi/TodoApi/bin/Debug/netcoreapp2.1/TodoApi.dll
+/Users/jamuar/Documents/DotNet/TodoApi/TodoApi/bin/Debug/netcoreapp2.1/TodoApi.pdb
+/Users/jamuar/Documents/DotNet/TodoApi/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.csprojAssemblyReference.cache
+/Users/jamuar/Documents/DotNet/TodoApi/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.csproj.CoreCompileInputs.cache
+/Users/jamuar/Documents/DotNet/TodoApi/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.RazorAssemblyInfo.cache
+/Users/jamuar/Documents/DotNet/TodoApi/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.RazorAssemblyInfo.cs
+/Users/jamuar/Documents/DotNet/TodoApi/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.AssemblyInfoInputs.cache
+/Users/jamuar/Documents/DotNet/TodoApi/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.AssemblyInfo.cs
+/Users/jamuar/Documents/DotNet/TodoApi/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.RazorTargetAssemblyInfo.cache
+/Users/jamuar/Documents/DotNet/TodoApi/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.dll
+/Users/jamuar/Documents/DotNet/TodoApi/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.pdb
